@@ -9,7 +9,7 @@ node euclid.js
 ```
 You must have node.js installed.
 
-## For JavaScript
+## For Python
 Download `euclid.py` from the `src` directory and run
 
 ```
