@@ -11,7 +11,7 @@ const rl = readline.createInterface({
 rl.question('Input two integers: \na: ', (a) => {
     rl.question('b: ', (b) => {
         
-        console.log(`The greatest common divisor (gcp) is:, ${gcd(a,b)}`);
+        console.log(`gcd( ${a} , ${b} ) = ${gcd(a,b)}`);
         rl.close();
 
       });
